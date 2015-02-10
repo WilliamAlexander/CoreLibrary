@@ -6,7 +6,7 @@
 
     <!-- Google Admob  -->
     <string name="admob_pub_id">a1516c5e0c3f01e</string>
-    <string name="admob_app_tracking_id">UA-50862724-10</string>
+    <string name="admob_app_tracking_id">UA-XXXXXXX-10</string>
 
     <string name="action_review">Review App</string>
 
