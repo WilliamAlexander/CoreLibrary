@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheCoreLibrary</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Google Admob  -->
+    <string name="admob_pub_id">a1516c5e0c3f01e</string>
+    <string name="admob_app_tracking_id">UA-50862724-10</string>
+
+    <string name="action_review">Review App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_support">Support</string>
+    <string name="help">Help me</string>
+    <string name="about">Halcien Labs 2015</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="drawer_labels">
+        <item>Overrie 1</item>
+        <item>Override 2</item>
+    </string-array>
+
+    <string name="app_details_url_prefix">https://play.google.com/store/apps/details?id=</string>
+
+    <string name="imageViewDescription">img</string>
+
+    <string name="support_email">williamjsalexander@gmail.com</string>
+    <string name="support_email_subject">Halcien Labs Support</string>
+    <string name="support_email_body">Do you have a question?</string>
+    <string name="hello_world">Hi there</string>
+
+
+</resources>
